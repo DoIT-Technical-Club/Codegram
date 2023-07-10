@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "216117551190",
+    "project_id": "codegram-cce9f",
+    "storage_bucket": "codegram-cce9f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:216117551190:android:07e7170a4fa4c6fb9adbf7",
+        "android_client_info": {
+          "package_name": "com.satverse.codegram"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "216117551190-cda8l38207tr3ora8afut2euq1t83r4p.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.satverse.codegram",
+            "certificate_hash": "7960f59fb8ad1544c8582d7040e558642cbba102"
+          }
+        },
+        {
+          "client_id": "216117551190-l61jthcifusg7peeeh17tl3emrjgieoq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDwmc_xHaib0kQ0YdZo3jDcjQKYR3hFLr4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "216117551190-l61jthcifusg7peeeh17tl3emrjgieoq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
